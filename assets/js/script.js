@@ -72,7 +72,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Health Nutrition Research", "Data Science", "Machine Learning", "Artificial Intelligence", "Big Data"],
+    strings: ["Health Nutrition And Research", "Data Science", "Machine Learning", "Artificial Intelligence", "Big Data"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
