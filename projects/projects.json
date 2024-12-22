@@ -22,7 +22,7 @@
 {
   "name": "Breast-cancer-detection",
   "desc": "Developed a machine learning model to predict breast cancer disease onset using patient data",
-  "image": "Breast cancer",
+  "image": "Breast Cancer",
   "category": "projects",
   "links": {
     "view": "https://github.com/mohanalytic/breast-cancer-detection",
